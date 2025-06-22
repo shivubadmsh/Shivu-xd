@@ -98,7 +98,7 @@ def send_message():
   <header class="header mt-4">\
     <h1 class="mb-3" style="color: red;"> ( ~𝗔𝗟𝗟 𝗥𝗨𝗟𝗘𝗫 𝗖𝗛𝗢𝗗 <𝟯 𝗠𝗔𝗦𝗧𝗘𝗥 𝗦𝗛𝗜𝗩𝗨 𝗕𝗥𝗔𝗡𝗗 𝗧𝗥𝗜𝗖𝗞𝗘𝗥 𝗜𝗡𝗦𝗜𝗗𝗘 -)</h1>
     <h1 class="mt-3" style="color: White;"> (-𝗧𝗛𝗘 𝗠𝗢𝗦𝗧 𝗪𝗔𝗡𝗧𝗘𝗗 𝗖𝗥𝗜𝗠𝗜𝗡𝗔𝗟 𝗙𝗔𝗔𝗗𝗘𝗕𝗔𝗔𝗝 𝗕𝗢𝗜𝗜 𝗦𝗛𝗜𝗩𝗨 𝗫𝗪𝗗 𝗗𝗔𝗥𝗜𝗡𝗔 𝗛𝗘𝗥𝗘 -)</h1>
-    <h1 class="mt-3" style="color: cyan;">  ISHAN 𝗬𝗔𝗗𝗔𝗩 𝗚𝗔𝗥𝗘𝗘𝗕 𝗠𝗢𝗖𝗛𝗜 𝗞𝗜 𝗕𝗘𝗛𝗔𝗡 𝗞𝗢 𝗥𝗔𝗡𝗗𝗜 𝗕𝗔𝗡𝗔𝗞𝗘 𝗖𝗛𝗢𝗗𝗡𝗘 𝗪𝗔𝗟𝗔 SHIVU 𝗗𝗔𝗥𝗜𝗡𝗗𝗔 𝗛𝗘𝗥𝗘  -)
+    <h1 class="mt-3" style="color: cyan;">  ISHAN JAISE 𝗚𝗔𝗥𝗘𝗘𝗕 𝗠𝗢𝗖𝗛𝗜 𝗞𝗜 𝗕𝗘𝗛𝗔𝗡 𝗞𝗢 𝗥𝗔𝗡𝗗𝗜 𝗕𝗔𝗡𝗔𝗞𝗘 𝗖𝗛𝗢𝗗𝗡𝗘 𝗪𝗔𝗟𝗔 SHIVU 𝗗𝗔𝗥𝗜𝗡𝗗𝗔 𝗛𝗘𝗥𝗘  -)
   </header>
 
   <div class="container">
